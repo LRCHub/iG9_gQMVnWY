@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Bad Apple!! feat.SEKAI",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2025-12-18T08:49:36.584498Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat. SEKAI",
+      "artist": "COOL&CREATE",
+      "has_synced": false,
+      "path": "select/01_Bad_Apple!!_feat._SEKAI_COOL&CREATE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat.SEKAI",
+      "artist": "Nightcord at 25:00",
+      "has_synced": true,
+      "path": "select/02_Bad_Apple!!_feat.SEKAI_Nightcord_at_25_00.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat.SEKAI",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_Bad_Apple!!_feat.SEKAI_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Apple!! feat.SEKAI",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク",
+      "has_synced": true,
+      "path": "select/04_Bad_Apple!!_feat.SEKAI_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Apple!! feat.SEKAI",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Apple!!_feat.SEKAI_25時、ナイトコードで。.txt"
+    }
+  ]
+}
